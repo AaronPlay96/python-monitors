@@ -22,6 +22,8 @@ var/
 wheels/
 *.egg-info/
 .installed.cfg
+
+.idea/
 *.egg
 MANIFEST
 
