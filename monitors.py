@@ -6,7 +6,6 @@ from threading import Condition as C
 from threading import Lock as L
 import math
 import pygame
-import os
 
 K = 30
 
